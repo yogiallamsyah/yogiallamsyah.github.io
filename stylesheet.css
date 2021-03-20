@@ -1,0 +1,66 @@
+.navbar {
+    background-color: #F05F40;
+}
+
+
+
+.jumbotron {
+
+    height: 700px;
+    text-align: center;
+    background-size: cover;
+    margin-bottom: -5px;
+}
+
+.jumbotron .display-4 {
+    color: white;
+    margin-top: 150px;
+    font-weight: 500;
+    font-family: Arial;
+    font-weight: bold;
+    opacity: 1;
+}
+
+.jumbotron p {
+    color: white;
+    font-weight: 500;
+}
+
+.jumbotron hr {
+    border-color: #F05F40;
+    width: 700px;
+    border-width: 3px;
+}
+
+.jumbotron .btn {
+    background-color: #F05F40;
+    border-radius: 25px;
+    padding-right: 25px;
+    padding-left: 25px;
+    margin-top: 40px;
+    font-size: small;
+    border-color: #F05F40;
+    color: white;
+    border: none;
+}
+
+.latar {
+    background-color: #F05F40;
+}
+
+hr {
+    background-color: #F05F40;
+}
+
+footer ul {
+    color: white;
+}
+
+footer ul,
+a {
+    color: white;
+}
+
+.tentangkami h3 {
+    margin-top: 80px;
+}
